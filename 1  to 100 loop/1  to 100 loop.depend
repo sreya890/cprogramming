@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671857738 source:c:\users\sreya\downloads\sequential\1  to 100 loop\main.c
+	<stdio.h>
+	<stdlib.h>
+

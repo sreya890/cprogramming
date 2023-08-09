@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669730757 source:c:\users\sreya\downloads\sequential\equal numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

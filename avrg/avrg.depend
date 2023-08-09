@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668595180 source:c:\users\sreya\downloads\sequential\avrg\main.c
+	<stdio.h>
+	<stdlib.h>
+

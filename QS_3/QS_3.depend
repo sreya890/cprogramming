@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676003588 source:c:\users\sreya\downloads\sequential\qs_3\main.c
+	<stdio.h>
+	<stdlib.h>
+

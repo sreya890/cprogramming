@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668850222 source:c:\users\sreya\downloads\sequential\simple intrst\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669920133 source:c:\users\sreya\downloads\sequential\vowels switch\main.c
+	<stdio.h>
+	<stdlib.h>
+

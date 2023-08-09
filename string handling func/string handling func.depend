@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678975069 source:c:\users\sreya\downloads\sequential\string handling func\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669732429 source:c:\users\sreya\downloads\sequential\unsigned long int\main.c
+	<stdio.h>
+	<stdlib.h>
+

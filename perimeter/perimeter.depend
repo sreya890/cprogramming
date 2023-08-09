@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668590790 source:c:\users\sreya\downloads\sequential\perimeter\main.c
+	<stdio.h>
+	<stdlib.h>
+

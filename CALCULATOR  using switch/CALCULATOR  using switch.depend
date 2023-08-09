@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669922457 source:c:\users\sreya\downloads\sequential\calculator  using switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
